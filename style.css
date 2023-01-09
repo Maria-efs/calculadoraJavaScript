@@ -16,7 +16,6 @@ body {
   background-color: var(--bg-color);
   color: var(--font-color);
   font-family: 'Ubuntu', sans-serif;
-  height: 100vh;
 }
 
 main {
